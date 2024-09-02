@@ -1,2 +1,2 @@
-# Saiman-Saya-Game
+# Saiman-Says-Game
 Memory improvement game
